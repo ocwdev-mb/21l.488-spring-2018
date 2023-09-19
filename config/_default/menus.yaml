@@ -1,0 +1,42 @@
+leftnav:
+- identifier: ca1f23ab-f20c-d528-1f24-4e594fca107c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e4eedf7c-ade8-c7c7-45bd-12b342a50ff7
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: c524a33e-81cd-9d68-4569-cbc04e94b5bf
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 0c6efcac-de0c-39e4-e571-10ac22b2cf6b
+  name: Paper 1
+  pageRef: /pages/assignments/paper-1
+  parent: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
+  weight: 50
+- identifier: 0b0d5e54-83b5-6de6-8691-5a6b1e602906
+  name: Paper 2
+  pageRef: /pages/assignments/paper-2
+  parent: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
+  weight: 60
+- identifier: b2a49bc1-2cb7-f8d3-00a7-75cb59b126e9
+  name: Creative Street Haunting
+  pageRef: /pages/assignments/creative-street-haunting-assignment
+  parent: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
+  weight: 70
+- identifier: 66406dee-06ab-a0d4-34eb-b64c27dcd75d
+  name: Re-Reading Assignment 1
+  pageRef: /pages/assignments/re-reading-assignment-1
+  parent: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
+  weight: 80
+- identifier: 1c6e6247-9618-d064-78c0-138e96e202ad
+  name: Re-Reading Assignment 2
+  pageRef: /pages/assignments/re-reading-assignment-2
+  parent: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
+  weight: 90
